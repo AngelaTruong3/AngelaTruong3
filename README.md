@@ -3,9 +3,9 @@ I am a current high school student exploring mechanical and software engineering
 
 ## 😄 About Me:
 
-<img align="right" src="https://github.com/user-attachments/assets/17475a62-246f-4911-803c-36ee2df2e140">
+<img align="right" src="https://github.com/user-attachments/assets/57d91006-5db0-4554-91ff-9c13116d7d37">
 
-- 🏫 I'm a Mechatronics and Robotics Major at Brooklyn Technical High School                          
+- 🏫 I'm in the Mechatronics and Robotics Major at Brooklyn Technical High School                          
 - 👯 I’m looking to collaborate on **projects in web development** 
 - 📫 Reach me at angelatruong705@gmail.com
 - ⚡ Fun fact: I have a deep passion for baking and table tennis 🏓  
