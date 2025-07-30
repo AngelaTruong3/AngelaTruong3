@@ -15,6 +15,9 @@ Drop me an email or connect with me on [![LinkedIn](https://img.shields.io/badge
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 ## 📚 Technology Stack and Tools:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d6461726b677265656e](https://github.com/user-attachments/assets/8d39383b-dd24-4581-9ba8-a637a71754c5) 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
